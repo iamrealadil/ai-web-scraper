@@ -1,6 +1,6 @@
 # AI Webscraper
 
-#### Video Demo: [<AI WEBSCRAPER>](https://drive.google.com/file/d/1PqNWL7QXOy6VQhFzFjXwWAsc8ZDdoJBW/view?usp=sharing)
+#### Video Demo: https://drive.google.com/file/d/1PqNWL7QXOy6VQhFzFjXwWAsc8ZDdoJBW/view?usp=sharing
 
 #### Description:
 
